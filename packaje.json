@@ -1,0 +1,10 @@
+{
+  "name": "jquery-loadmask",
+  "version": "1",
+  "main": "jquery.loadmask.js",
+  "maintainers":"",
+  "description": "jQuery loadmask ui plugin",
+  "keywords": [""],
+  "licenses": [{"type": "MIT"}],
+  "homepage": ""
+}
